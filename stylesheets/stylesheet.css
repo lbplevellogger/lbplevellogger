@@ -326,7 +326,7 @@ Full-Width Styles
   border: solid red 1px;
 }
 
-.zip_download_link {
+.download_link {
   display: block;
   float: right;
   width: 90px;
