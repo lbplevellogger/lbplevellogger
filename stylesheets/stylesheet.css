@@ -323,6 +323,7 @@ Full-Width Styles
   right: 0;
   height: 70px;
   background: url('../images/icon_download.png') no-repeat 0% 90%;
+  border: solid red 1px;
 }
 
 .zip_download_link {
