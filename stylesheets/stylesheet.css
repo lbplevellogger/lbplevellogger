@@ -347,7 +347,7 @@ Full-Width Styles
   margin-left: 10px;
 }
 
-.zip_download_link:hover {
+.download_link:hover {
   background: url(../images/sprite_download.png) no-repeat top left;
 }
 
